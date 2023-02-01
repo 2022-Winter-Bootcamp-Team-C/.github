@@ -1,4 +1,4 @@
-## *💸* **가계부를 자동으로 입력해준다고? SHOW me the money** *💸*
+## *💸* **가계부를 자동으로 입력해준다고? SHOW ME THE MONEY** *💸*
 
 가계부를 직접 작성하지 않고, 자동으로 주는 **SMTM**입니다!
 
@@ -7,7 +7,7 @@
 
 ![SHOW me the MONEY (1)](https://user-images.githubusercontent.com/101851472/214908541-19eabb50-e10d-42e5-8bfa-e1a69bc887cf.png)
  <br>
- ## What IS SHOW ME THE MONEY?
+ ## ❓ What IS SHOW ME THE MONEY?
  
 **1. 영수증 자동 작성**
     
@@ -59,7 +59,7 @@
 
 <br>
 
-## 🎞️ API 
+## ✨ API 
 
 Swagger
  
@@ -82,7 +82,7 @@ Prometheus & Grafana
 
 <br>
 
-## 🗂️ File Directory
+## 📂 File Directory
 
 <details>
 <summary> docker </summary>
@@ -333,7 +333,7 @@ docker-compose -f docker-compose.prod.yml -f docker-compose.logging.yml exec bac
 
 <br>
 
-## 😎 Member
+## 👫 Member
 
 <table width="1000">
     <thead>
