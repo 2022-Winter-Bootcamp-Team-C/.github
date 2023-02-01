@@ -51,10 +51,24 @@
 <br>
 
 ## 🔎 Service
+[ First ]<br/>
+![초기화면](https://user-images.githubusercontent.com/83697577/216048997-68545a8c-8c24-4a86-aab3-ee2a28c8eb74.gif)
+
 [ Sign Up & Login ]<br/>
 ![다시 수정](https://user-images.githubusercontent.com/101851472/216041190-18eea216-f25a-4b03-a986-2c4763b78345.gif)
 
+[ Income ]<br/>
+![수입내역,추가,수정,삭제](https://user-images.githubusercontent.com/83697577/216049109-330bceb4-bbbc-4849-be97-88276c7a0424.gif)
 
+[ Spending ]<br/>
+![영수증](https://user-images.githubusercontent.com/83697577/216049227-e3ef25d0-2a17-4e5a-b3d6-e3998ac7f4f4.gif)
+
+[ Graph ]<br/>
+![그래프](https://user-images.githubusercontent.com/83697577/216049328-18cecf3b-d45f-4e14-819d-f742bf2ffbc2.gif)
+![다크모드](https://user-images.githubusercontent.com/83697577/216049379-2b3363f8-5cc9-4f67-9d5f-d1bf7e95624d.gif)
+
+[ Spending Challenge ]<br/>
+![지출 챌린지](https://user-images.githubusercontent.com/83697577/216049546-b92c3536-a5d0-4a71-ad59-beddba9a3da4.gif)
 
 <br>
 
