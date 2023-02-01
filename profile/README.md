@@ -27,13 +27,13 @@
  
  ## 🌈 Table of Contents
  - [System Architecture](#system-architecture)
- - [Tech Stack](#%EF%B8%8Ftech-stack-%EF%B8%8F)
- - [Service](#service)
- - [ERD](#erd)
- - [API](#%EF%B8%8F-api)
+ - [Tech Stack](#%EF%B8%8F-tech-stack)
+ - [Service](#-service)
+ - [ERD](#-erd)
+ - [API](#-api)
  - [Monitoring Tools](#-monitoring-tools)
- - [File Directory](#%EF%B8%8F-file-directory)
- - [Installation](#installation)
+ - [File Directory](#-file-directory)
+ - [Installation](#-installation)
  - [Member](#-member)
  
  <br>
@@ -53,6 +53,8 @@
 ## 🔎 Service
 [ Sign Up & Login ]<br/>
 ![다시 수정](https://user-images.githubusercontent.com/101851472/216041190-18eea216-f25a-4b03-a986-2c4763b78345.gif)
+
+
 
 <br>
 
