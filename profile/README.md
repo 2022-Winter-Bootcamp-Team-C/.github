@@ -34,6 +34,8 @@ SMTM과 함께 **절약**을 해보러 가볼까요?<br/>
 <br>
 
 ## Features
+[ Sign Up & Login]
+![다시 수정](https://user-images.githubusercontent.com/101851472/216041190-18eea216-f25a-4b03-a986-2c4763b78345.gif)
 
 <br>
 
