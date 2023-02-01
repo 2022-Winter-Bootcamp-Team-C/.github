@@ -51,7 +51,7 @@
 <br>
 
 ## 🔎 Service
-[ First ]<br/>
+[ Main ]<br/>
 ![초기화면](https://user-images.githubusercontent.com/83697577/216048997-68545a8c-8c24-4a86-aab3-ee2a28c8eb74.gif)
 
 [ Sign Up & Login ]<br/>
