@@ -7,7 +7,7 @@
 
 ![SHOW me the MONEY (1)](https://user-images.githubusercontent.com/101851472/214908541-19eabb50-e10d-42e5-8bfa-e1a69bc887cf.png)
  <br>
- ## ❓ What IS SHOW ME THE MONEY?
+ ## ❓ WHAT IS SHOW ME THE MONEY?
  
 **1. 영수증 자동 작성**
     
@@ -27,19 +27,19 @@
  
  ## 🌈 Table of Contents
  - [System Architecture](#system-architecture)
- - [Tech Stack](#%EF%B8%8Ftech-stack-%EF%B8%8F)
- - [Service](#service)
- - [ERD](#erd)
- - [API](#%EF%B8%8F-api)
+ - [Tech Stack](#%EF%B8%8F-tech-stack)
+ - [Service](#-service)
+ - [ERD](#-erd)
+ - [API](#-api)
  - [Monitoring Tools](#-monitoring-tools)
- - [File Directory](#%EF%B8%8F-file-directory)
- - [Installation](#installation)
+ - [File Directory](#-file-directory)
+ - [Installation](#-installation)
  - [Member](#-member)
  
  <br>
  
 ## 📍 System Architecture
-![SA](https://user-images.githubusercontent.com/101851472/214296030-b73b475d-ffff-4620-916a-7c700c314730.png)
+![SA](https://user-images.githubusercontent.com/101851472/216039402-e5595e53-cde6-487d-b528-af93c982785e.png)
 
 <br>
 
@@ -51,6 +51,24 @@
 <br>
 
 ## 🔎 Service
+[ First ]<br/>
+![초기화면](https://user-images.githubusercontent.com/83697577/216048997-68545a8c-8c24-4a86-aab3-ee2a28c8eb74.gif)
+
+[ Sign Up & Login ]<br/>
+![다시 수정](https://user-images.githubusercontent.com/101851472/216041190-18eea216-f25a-4b03-a986-2c4763b78345.gif)
+
+[ Income ]<br/>
+![수입내역,추가,수정,삭제](https://user-images.githubusercontent.com/83697577/216049109-330bceb4-bbbc-4849-be97-88276c7a0424.gif)
+
+[ Spending ]<br/>
+![영수증](https://user-images.githubusercontent.com/83697577/216049227-e3ef25d0-2a17-4e5a-b3d6-e3998ac7f4f4.gif)
+
+[ Graph ]<br/>
+![그래프](https://user-images.githubusercontent.com/83697577/216049328-18cecf3b-d45f-4e14-819d-f742bf2ffbc2.gif)
+![다크모드](https://user-images.githubusercontent.com/83697577/216049379-2b3363f8-5cc9-4f67-9d5f-d1bf7e95624d.gif)
+
+[ Spending Challenge ]<br/>
+![지출 챌린지](https://user-images.githubusercontent.com/83697577/216049546-b92c3536-a5d0-4a71-ad59-beddba9a3da4.gif)
 
 <br>
 
@@ -59,9 +77,9 @@
 
 <br>
 
-## ✨ API 
+## ✨ API
 
-Swagger
+> Swagger
  
 ![Untitled](https://user-images.githubusercontent.com/101851472/214647364-906f02b1-905c-49a7-909d-92d837ee6cf9.png)
 ![2](https://user-images.githubusercontent.com/101851472/214647406-2705d985-086a-42e7-a212-daaaa5087587.png)
@@ -73,12 +91,14 @@ Swagger
 
 ## 📊 Monitoring Tools
 
-Prometheus & Grafana
+> Prometheus & Grafana
 
 ![스크린샷 2023-01-30 오후 8 40 12](https://user-images.githubusercontent.com/101851472/215557478-aa119871-81d4-48ae-935d-628e091fabff.png)
 ![스크린샷 2023-01-30 오후 8 41 53](https://user-images.githubusercontent.com/101851472/215557511-c3fc7f77-15f7-467e-970d-d6c718b0e4fc.png)
 
-
+> Google Analytics
+<img width="1495" alt="스크린샷 2023-02-01 오후 8 38 05" src="https://user-images.githubusercontent.com/101851472/216040043-69c9464a-bf76-473e-9407-dc9fd2f500b1.png">
+<img width="1495" alt="스크린샷 2023-02-01 오후 8 27 46" src="https://user-images.githubusercontent.com/101851472/216040170-c5faa809-332d-4fe9-be0c-84317c4401b8.png">
 
 <br>
 
@@ -87,6 +107,7 @@ Prometheus & Grafana
 <details>
 <summary> docker </summary>
 <aside>
+
 ```
 📦docker
  ┣ 📂.github
@@ -305,6 +326,7 @@ Prometheus & Grafana
  ┣ 📜docker-compose.prod.yml
  ┗ 📜docker-compose.yml
 ```
+
 </aside>
 </details>
 
@@ -426,6 +448,10 @@ docker-compose -f docker-compose.prod.yml -f docker-compose.logging.yml exec bac
      </tr>
     </tbody>
 </table>
+
+## 💬 Medium
+<b><a href="https://medium.com/@dlwldnjs1009/smart-household-account-service-9f55ec3851ec">🇺🇸 Medium English.ver </a></b><br/>
+<b><a href="https://medium.com/@dlwldnjs1009/smart-%EA%B0%80%EA%B3%84%EB%B6%80-%EC%84%9C%EB%B9%84%EC%8A%A4-f89a74297aa">🇰🇷 Medium Korean.ver </a></b><br/>
 
 <div align="right">
     <b><a href="#-가계부를-자동으로-입력해준다고-show-me-the-money-">⬆️ Back to Top</a></b>
