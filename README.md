@@ -2,11 +2,28 @@
 
 가계부를 직접 작성하지 않고, 자동으로 주는 **SMTM**입니다!
 
-SMTM과 함께 **절약**을 해보러 가볼까요?<br/>
-: 네이버 OCR 를 활용해 🧾영수증 사진을 넣으면 결제 정보(매장이름,결제금액)을 자동으로 읽어 가계부를 작성해주는 웹 서비스
+**SMTM**과 함께 **절약**을 해보러 가볼까요?<br/>
+: 네이버 OCR 를 활용해 영수증 사진을 넣으면 결제 정보(매장이름,결제금액)을 자동으로 읽어 가계부를 작성해주는 웹 서비스
 
 ![SHOW me the MONEY (1)](https://user-images.githubusercontent.com/101851472/214908541-19eabb50-e10d-42e5-8bfa-e1a69bc887cf.png)
  <br>
+ ## What IS SHOW ME THE MONEY?
+ 
+**1. 영수증 자동 작성**
+    
+    → 영수증 사진만 넣으면 편리하게 자동 작성
+    
+**2. 수입/지출 한눈에 그래프화**
+    
+    → 수입/지출 그래프화
+    → 용도별 지출 그래프화
+    → 3개월 수입/지출/평균 그래프화
+    
+**3. 과도한 지출 NO! 챌린지**
+    
+    → 챌린지 금액 설정 후, 남은 금액 확인 ⇒ 나만의 과소비 지출 패턴 확인
+    → 편하게 +1000씩 눌러 금액 설정
+ 
  
  ## Table of Contents
  - [System Architecture](#system-architecture)
@@ -289,7 +306,6 @@ Prometheus & Grafana
  ┣ 📜docker-compose.prod.yml
  ┗ 📜docker-compose.yml
 ```
-
 </aside>
 </details>
 
