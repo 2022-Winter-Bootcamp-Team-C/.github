@@ -300,17 +300,15 @@ Prometheus & Grafana
 ### 1. Clone Repository
 ```
 git clone https://github.com/2022-Winter-Bootcamp-Team-C/docker.git
-
-
 ```
-### 3. Front-end : package.json 파일 수정
+### 2. Front-end : package.json 파일 수정
   ```json
   {
     "proxy": "http://<ip>:<server_port>",
   }
   ```
 
-### 4. terminal에서 docker 명령어 실행 🐳
+### 3. terminal에서 docker 명령어 실행 🐳
 ```docker
 docker-compose -f docker-compose.prod.yml -f docker-compose.logging.yml up --build
 # DB table 생성
