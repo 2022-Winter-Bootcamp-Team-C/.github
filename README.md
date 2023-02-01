@@ -311,7 +311,7 @@ Prometheus & Grafana
 
 <br>
 
-## Installation
+## ♻ Installation
 
 ### 1. Clone Repository
 ```
