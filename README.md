@@ -1,6 +1,6 @@
 ## *💸* **가계부를 자동으로 입력해준다고? SHOW ME THE MONEY** *💸*
 
-가계부를 직접 작성하지 않고, 자동으로 주는 **SMTM**입니다!
+가계부를 직접 작성하지 않고, 자동으로 작성해주는 **SMTM**입니다!
 
 **SMTM**과 함께 **절약**을 해보러 가볼까요?<br/>
 : 네이버 OCR 를 활용해 영수증 사진을 넣으면 결제 정보(매장이름,결제금액)을 자동으로 읽어 가계부를 작성해주는 웹 서비스
@@ -28,8 +28,8 @@
  ## Table of Contents
  - [System Architecture](#system-architecture)
  - [Tech Stack](#%EF%B8%8Ftech-stack-%EF%B8%8F)
- - [Features](#features)
- - [ER Ddiagram](#er-diagram)
+ - [Service](#service)
+ - [ERD](#erd)
  - [API](#%EF%B8%8F-api)
  - [Monitoring Tools](#-monitoring-tools)
  - [File Directory](#%EF%B8%8F-file-directory)
@@ -50,11 +50,11 @@
 
 <br>
 
-## Features
+## 🔎 Service
 
 <br>
 
-## ✏ERD
+## ✏ ERD
 <img width="700" alt="스크린샷 2023-01-20 오후 10 04 51" src="https://user-images.githubusercontent.com/101851472/213865825-e2799486-e5de-44e7-8429-09788748da83.png">
 
 <br>
