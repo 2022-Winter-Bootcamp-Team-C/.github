@@ -433,6 +433,10 @@ docker-compose -f docker-compose.prod.yml -f docker-compose.logging.yml exec bac
     </tbody>
 </table>
 
+## 💬 Medium
+<b><a href="https://medium.com/@dlwldnjs1009/smart-household-account-service-9f55ec3851ec">🇺🇸 Medium English.ver </a></b><br/>
+<b><a href="https://medium.com/@dlwldnjs1009/smart-%EA%B0%80%EA%B3%84%EB%B6%80-%EC%84%9C%EB%B9%84%EC%8A%A4-f89a74297aa">🇰🇷 Medium Korean.ver </a></b><br/>
+
 <div align="right">
     <b><a href="#-가계부를-자동으로-입력해준다고-show-me-the-money-">⬆️ Back to Top</a></b>
 </div>
